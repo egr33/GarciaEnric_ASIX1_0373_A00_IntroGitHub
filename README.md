@@ -33,6 +33,6 @@ nhjnlkmkmkmlknljnljlk nnlknkln
 
 ![alt text](./wp9441231-messi-landscape-4k-wallpapers.jpg "Imagen random de un archivo")
 
-|JUGADOR|EQUIPO|NOMBRE|
+|*JUGADOR*|*EQUIPO*|*NOMBRE*|
 |-------|------|-----------------|
 |10|FCBARCELONA|LEO MESSI|
