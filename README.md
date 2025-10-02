@@ -35,4 +35,4 @@ nhjnlkmkmkmlknljnljlk nnlknkln
 
 |JUGADOR|EQUIPO|NOMBRE|
 |-------|------|-----------------|
-|10|FCBARCELONA|LIONEL MESSI|
+|10|FCBARCELONA|LEO MESSI|
